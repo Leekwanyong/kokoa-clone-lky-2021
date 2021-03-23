@@ -5,10 +5,14 @@
 @import "reset.css";
 @import "variables.css";
 @import "status-bar.css";
+@import "friends.css";
 @import "login.css";
 @import "nav-bar.css";
 @import "screen-header.css";
-
+@import "user-components.css";
+@import "find.css";
+@import "op.css";
 body {
+  color: #2e363e;
   height: 1000vh;
 }

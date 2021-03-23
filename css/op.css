@@ -1,0 +1,28 @@
+.user-component__subtitle2 {
+  bottom: 729px;
+  color: black;
+  opacity: 0.7;
+}
+
+.user-21 {
+  position: absolute;
+  margin-top: -45px;
+  margin-left: 435px;
+  color: black;
+  font-size: 400;
+  opacity: 0.7;
+}
+
+.user-22 {
+  position: absolute;
+  margin-top: -22px;
+  margin-left: 460px;
+  background-color: red;
+  color: white;
+  padding: 3px;
+  border-radius: 10px;
+  font-size: 400;
+  opacity: 0.7;
+}
+}
+
