@@ -1,0 +1,28 @@
+.settings__setting {
+  padding: 20px 0px;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+  font-size: 18px;
+  display: flex;
+  align-content: center;
+}
+
+.settings__setting i {
+  opacity: 0.7;
+  margin-right: 20px;
+  font-size: 22px;
+  margin-left: 20px;
+}
+
+.settings-setting11 {
+  position: relative;
+}
+
+.settings__setting-column1 {
+  position: absolute;
+  margin-left: 300px;
+  padding: 5px;
+  top: 1px;
+  color: black;
+  font: 600;
+  font-size: 15px;
+}

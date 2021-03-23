@@ -1,0 +1,59 @@
+.user-component__text11 {
+  position: relative;
+}
+
+.user-component__title3 {
+  position: absolute;
+  left: 95px;
+  top: -40px;
+  font-size: 600;
+  color: black;
+}
+
+.user-component__subtitle44 {
+  position: relative;
+}
+
+.user-component__subtitle14 {
+  position: absolute;
+  left: 85px;
+  top: -15px;
+}
+
+.user-component__column122 {
+  position: relative;
+}
+
+.user-component__column122 i {
+  position: absolute;
+  left: 443px;
+  top: -50px;
+  opacity: 0.7;
+}
+
+.icon-row {
+  display: flex;
+  justify-content: space-between;
+  padding-bottom: 25px;
+}
+
+.icon-row__icon {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.icon-row__icon i {
+  font-size: 35px;
+}
+
+.icon-row__icon span {
+  margin-top: 18px;
+}
+
+.screen-header__icons span {
+  padding-left: 15px;
+
+  align-content: space-between;
+  justify-content: center;
+}
